@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5c294d4dad2a064fa963d25c4323e15, type: 3}
+  m_Name: Wood
+  m_EditorClassIdentifier: Assembly-CSharp::Material_Item
+  item_ID: Wood
+  item_Name: "\uD1B5\uB098\uBB34"
+  item_DES: "\uADF8\uB0E5 \uD1B5\uB098\uBB34"
+  max_Stack: 99
+  item_Value: 0
+  cool_Down: 0
+  item_Type: 1
+  rarity: 0
+  item_Chance: 70

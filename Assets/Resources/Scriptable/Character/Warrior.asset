@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3db1a02993afd4b4ca1f4c7bd1c3ebf9, type: 3}
+  m_Name: Warrior
+  m_EditorClassIdentifier: 
+  Character_Name: Test_CH_1
+  Character_DES: "\uCE90\uB9AD\uD130 \uC124\uBA85"
+  rarity: 0
+  ATK: 30
+  Max_HP: 150
+  Max_MP: 100
+  Max_Stamina: 100
+  Speed: 10
+  Price: 1000
+  Character_Prefab: {fileID: 5754011102450652848, guid: f5c05b19ba1123d449c7a0ec289a5663, type: 3}
+  atk_Growth_Per_Level: 3
+  hp_Growth_Per_Level: 22
+  mp_Growth_Per_Level: 6
+  stamina_Growth_Per_Level: 5
